@@ -1,0 +1,3 @@
+Name of script: 'Masters_Thesis_Script'Published in:  'Master's Thesis: "The effect on domestic price of electricity in Norway as a result of further integration to European electricity market" at University of Oslo, 2019'Description:  'This script calculates the price and welfare change on the Nord Pool electricity market caused by hypothetical increase of transmission capacity to German and UK electricity market in the past'Author:  'Dalibor Vagner'
+
+Uploaded:   April 2019Datafile: 'no datafile provided as it is in conflict with the Terms and Conditions of the data provider Nord Pool, but freely accessible at www.nordpoolgroup.com'
